@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🖥️ Desenvolvimento de Software  <br>☁️ Infraestrutura e Cloud  <br>🛡️ Segurança da Informação  <br>🧩 Inteligência Artificiall  <br>🚀 Aprendizado contínuo e novas tecnologias</p>
+<p data-importer="text" align="left">🖥️ Desenvolvimento de Software  <br>☁️ Infraestrutura e Cloud  <br>🛡️ Segurança da Informação  <br>🧩 Inteligência Artificial  <br>🚀 Aprendizado contínuo e novas tecnologias</p>
 
 ###
 
