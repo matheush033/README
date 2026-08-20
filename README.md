@@ -75,8 +75,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
 </div>
 
@@ -90,9 +88,9 @@
   <a href="https://www.linkedin.com/in/matheus-henrique-518987218/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
 </div>
 
 ###
